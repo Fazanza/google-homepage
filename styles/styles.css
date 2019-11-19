@@ -1,0 +1,76 @@
+body {
+    position: relative;
+}
+
+.Center {
+     position: relative;
+     left: 800px;
+     top: 200px;
+    }
+
+ul{
+    list-style-type: none;
+    margin: 0px -10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color:white;
+    position: relative;
+    bottom: 260px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+
+.footer ul {
+    position: relative;
+    top: 593px;
+    background-color: rgb(224, 224, 224);
+}
+
+li {
+    float: left;
+    padding: 10px;
+}
+
+#rightHeader {
+    float: right;
+}
+
+.header li a {
+    display: block;
+    color:rgb(85, 78, 78);
+    text-align: center;
+    padding: 14px, 16px;
+    font-size: 12px;
+}
+
+.footer li a {
+    display: block;
+    color:rgb(121, 109, 109);
+    text-align: center;
+    padding: 14px, 16px;
+    font-size: 10px;
+}
+
+ #Logo {
+        padding: 20px;
+    }
+
+#input {
+    border-radius: 6px;
+    width: 500px;
+    height: 30px;
+    position: relative;
+    right: 90px
+}
+
+#button1 {
+    margin-top: 25px;
+    margin-left: 10px;
+    padding: 3px;
+}
+
+#button2 {
+    margin-top: 25px;
+    margin-left: 60px;
+    padding: 3px;
+}
